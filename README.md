@@ -1,4 +1,4 @@
-## Learn Provision Infrastructure with Cloud-Init
+## Provision Infrastructure with Cloud-Init
 Companion code repository for learning to provision Terraform instances with `cloud-init`
 
 ### Create a local SSH key
@@ -21,4 +21,5 @@ Connect to your instance via SSH by piping the aws_instance.web.public_ip resour
 
 *Launch the demo webapp.*
 -`go run webapp.go`
-- <img width="1608" alt="2" src="https://user-images.githubusercontent.com/33342822/150629317-81774f13-c1b4-4f3b-b6f2-271911c8da28.png">
+
+<img width="1608" alt="2" src="https://user-images.githubusercontent.com/33342822/150629317-81774f13-c1b4-4f3b-b6f2-271911c8da28.png">
